@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*"Use of comments during the code"*/
+
+*{
+  padding: 10px;
+  text-align: center;
+  background-image: "https://2.bp.blogspot.com/-wBFnDIxkiCA/XXVCWQYLTzI/AAAAAAAANA8/RUrtcl2ybnUOPt_CC-dQlbHCoZItb4OswCLcBGAs/w919/rick-and-morty-uhdpaper.com-8K-5.147-wp.thumbnail.jpg";
+  background-size: cover;
+}
+
+/*"Use of comments during the code"*/
+
+body{
+  background-image: "https://2.bp.blogspot.com/-wBFnDIxkiCA/XXVCWQYLTzI/AAAAAAAANA8/RUrtcl2ybnUOPt_CC-dQlbHCoZItb4OswCLcBGAs/w919/rick-and-morty-uhdpaper.com-8K-5.147-wp.thumbnail.jpg";
+  background-size: cover;
+}
+
+/*"Use of comments during the code"*/
+
+#gg{
+  border-radius: 20px;
+}
